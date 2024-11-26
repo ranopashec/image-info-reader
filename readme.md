@@ -5,9 +5,11 @@
 ### БГУ ФПМИ ПИ
 
 
-#### Вариант ?
-#### Ссылка на приложение: 
+#### Ссылка на приложение: git clone git@github.com:ranopashec/image-info-reader.git
 #### ССылка на иходный код: https://github.com/ranopashec/image-info-reader/
 
 ## Описание работы программы: 
-?
+- открыть в консоли папку src
+- написать go run .
+- открыть в браузере http://localhost:8081
+- выбрать папку с файлами и нажать upload
